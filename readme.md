@@ -54,6 +54,4 @@ npm run build
 npm run start:dev
 
 # Rodando o frontend
-Abra o arquivo index.html no navegador
-
-Pode usar extensões como Live Server no VSCode para facilitar
+Abra o arquivo index.html no navegador - Pode usar extensões como Live Server no VSCode para facilitar
