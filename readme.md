@@ -4,6 +4,20 @@
 
 ---
 
+## 💡 O que é WebSocket?
+
+WebSocket é um protocolo que cria um canal de comunicação persistente e bidirecional entre o cliente e o servidor, diferente do HTTP tradicional.
+
+Isso significa:
+
+- Comunicação em tempo real sem necessidade de requisições constantes
+
+- Melhor performance para apps interativos
+
+- Ideal para aplicações que precisam de feedback instantâneo
+
+---
+
 ## 🎯 Objetivo
 
 Este projeto tem como foco demonstrar o funcionamento do **WebSocket**, que permite comunicação **bidirecional e em tempo real** entre **cliente** e **servidor**, ideal para:
@@ -12,20 +26,6 @@ Este projeto tem como foco demonstrar o funcionamento do **WebSocket**, que perm
 - 🎮 Jogos online  
 - 🔔 Notificações ao vivo  
 - 📡 Sistemas interativos  
-
----
-
-## 💡 O que é WebSocket?
-
-WebSocket é um protocolo que cria um canal de comunicação persistente e bidirecional entre o cliente e o servidor, diferente do HTTP tradicional.
-
-Isso significa:
-
-Comunicação em tempo real sem necessidade de requisições constantes
-
-Melhor performance para apps interativos
-
-Ideal para aplicações que precisam de feedback instantâneo
 
 ---
 
@@ -38,15 +38,6 @@ Ideal para aplicações que precisam de feedback instantâneo
 ---
 
 ## ⚙️ Como instalar e rodar
-
-### Pré-requisitos
-
-- [Node.js](https://nodejs.org/) (v14+)  
-- npm (gerenciador de pacotes do Node.js)  
-
----
-
-### Passos para rodar o projeto
 
 ```bash
 # Clone o repositório
