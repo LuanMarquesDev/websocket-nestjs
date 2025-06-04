@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Chat WebSocket</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Chat em tempo real</h1>
+
+    <ul id="chat"></ul>
+
+    <div class="input-group">
+      <input id="mensagem" type="text" placeholder="Digite sua mensagem" />
+      <button onclick="enviar()">Enviar</button>
+    </div>
+
+    <div id="alerta" class="alerta"></div>
+  </div>
+
+  <script src="https://cdn.socket.io/4.7.5/socket.io.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
