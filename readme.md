@@ -41,7 +41,7 @@ Este projeto tem como foco demonstrar o funcionamento do **WebSocket**, que perm
 
 ```bash
 # Clone o repositório
-git clone https://seu-repositorio.git
+git clone https://github.com/LuanMarquesDev/websocket-nestjs
 cd websocket-nestjs
 
 # Instale as dependências
